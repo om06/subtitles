@@ -1,0 +1,6 @@
+# To make connection with opensubtitles
+python-opensubtitles
+
+
+# To parse arguments
+argparse
